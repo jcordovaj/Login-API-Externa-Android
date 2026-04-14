@@ -1,4 +1,4 @@
-# 🚀 MOD6 AE3-ABPRO1 MVP de Autenticación con API Externa (Login + MVVM + Retrofit + Testing)
+# 🚀 MVP de Autenticación con API Externa (Login + MVVM + Retrofit + Testing)
 
 <p float="center">
   <img src="scrapbook/perasconmanzanas_icon.png" alt="Logo" width="200"/>
